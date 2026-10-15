@@ -1,0 +1,19 @@
+name: geotech-flood
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - geopandas
+  - shapely
+  - pyproj
+  - pyogrio
+  - rasterio
+  - pandas
+  - numpy
+  - matplotlib
+  - folium
+  - requests
+  - pyyaml
+  - pytest
+  - tqdm

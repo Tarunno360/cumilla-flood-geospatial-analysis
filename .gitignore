@@ -1,0 +1,62 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Conda / Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large source datasets (raw zips / archives)
+data/raw/*.zip
+data/raw/unosat_3954
+data/raw/unosat_3954/
+data/raw/unosat_raw/
+data/raw/geoboundaries_bgd_adm2.geojson
+data/raw/unosat_3937_assessment.pdf
+data/raw/**/*.shp
+data/raw/**/*.shx
+data/raw/**/*.dbf
+data/raw/**/*.prj
+data/raw/**/*.cpg
+data/raw/**/*.gpkg
+data/raw/**/*.tif
+data/raw/**/*.tiff
+*.gdb.zip
+*.tar.gz
+
+# Pipeline-generated geospatial layers (regenerated from the sources above)
+data/processed/
+
+# Local environment inventories and review bundles
+conda_installed_packages.txt
+*_REVIEW_PACKAGE.zip
+*_AUDIT*.md
+PROJECT_AUDIT_REPORT.md
+
+# Temporary or OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
+*.tmp
+*.bak
+
+# IDE configs
+.vscode/
+.idea/
+
+# Local secrets and credentials
+.env.*
+!.env.example
+*.pem
+*.key

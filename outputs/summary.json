@@ -1,0 +1,280 @@
+{
+  "study_area": "Cumilla",
+  "projected_crs": "EPSG:32646",
+  "event_glide": "FL20240825BGD",
+  "water_classification": {
+    "water_class": "Flood Water",
+    "water_status": "New Water / Water Increase",
+    "confidence": "To be evaluated",
+    "field_validation": "Not yet field validated",
+    "sensor": "Copernicus Sentinel-1 SAR (10m resolution)",
+    "description": "Satellite-detected flood water extent classified by UNOSAT; reference/permanent water bodies excluded."
+  },
+  "district_metrics": {
+    "total_area_km2": 3088.66,
+    "total_area_m2": 3088658441.4
+  },
+  "flood_metrics": {
+    "primary_analyzed_window": "First Satellite Observation Period (18\u201326 August 2024) (18 to 26 August 2024)",
+    "satellite_detected_flood_area_km2": 472.16,
+    "percentage_of_district_flooded": 15.29,
+    "flood_polygon_features_count": 17751,
+    "sensor": "Copernicus Sentinel-1 SAR (10m resolution)",
+    "observation_period_1": "18 to 26 August 2024 (First satellite observation period, 472.16 km\u00b2, 15.29%)",
+    "observation_period_2": "28 August to 04 September 2024 (Second satellite observation period, 453.54 km\u00b2, 14.68%)"
+  },
+  "healthcare_facility_metrics": {
+    "total_mapped_facilities": 86,
+    "facility_breakdown": {
+      "hospital": 52,
+      "pharmacy": 17,
+      "clinic": 12,
+      "yes": 2,
+      "laboratory": 2,
+      "alternative": 1
+    },
+    "facilities_intersecting_flood_extent": 0,
+    "facilities_within_500m": 61,
+    "facilities_within_1000m": 81,
+    "facilities_within_2500m": 86,
+    "proximity_distribution": {
+      "Within 500m": 61,
+      "500m - 1km": 20,
+      "1km - 2.5km": 5
+    },
+    "distance_to_flood_meters": {
+      "mean": 396.3,
+      "median": 289.3,
+      "min": 31.9,
+      "max": 1245.2,
+      "std": 313.2
+    },
+    "disaggregated_by_category_group": {
+      "Hospitals & Clinics": {
+        "total_count": 64,
+        "intersecting_flood_extent": 0,
+        "within_500m": 50,
+        "within_500m_pct": 78.1,
+        "within_1000m": 62,
+        "within_1000m_pct": 96.9,
+        "distance_meters": {
+          "mean": 345.1,
+          "median": 275.0,
+          "min": 31.9,
+          "max": 1182.6
+        }
+      },
+      "Other / Unspecified": {
+        "total_count": 3,
+        "intersecting_flood_extent": 0,
+        "within_500m": 2,
+        "within_500m_pct": 66.7,
+        "within_1000m": 3,
+        "within_1000m_pct": 100.0,
+        "distance_meters": {
+          "mean": 374.5,
+          "median": 454.9,
+          "min": 164.2,
+          "max": 504.4
+        }
+      },
+      "Pharmacies & Laboratories": {
+        "total_count": 19,
+        "intersecting_flood_extent": 0,
+        "within_500m": 9,
+        "within_500m_pct": 47.4,
+        "within_1000m": 16,
+        "within_1000m_pct": 84.2,
+        "distance_meters": {
+          "mean": 572.0,
+          "median": 532.3,
+          "min": 72.4,
+          "max": 1245.2
+        }
+      }
+    }
+  },
+  "temporal_periods": {
+    "period_1": {
+      "period_key": "period_1",
+      "period_name": "First Satellite Observation Period (18\u201326 August 2024)",
+      "date_range": "18 to 26 August 2024",
+      "flood_area_km2": 472.16,
+      "flood_area_m2": 472159915.5,
+      "percentage_of_district_flooded": 15.29,
+      "flood_feature_count": 17751,
+      "facilities_intersecting_flood": 0,
+      "facilities_within_500m": 61,
+      "facilities_within_500m_pct": 70.9,
+      "facilities_within_1000m": 81,
+      "facilities_within_1000m_pct": 94.2,
+      "facilities_within_2500m": 86,
+      "facilities_within_2500m_pct": 100.0,
+      "distance_to_flood_meters": {
+        "mean": 396.3,
+        "median": 289.3,
+        "min": 31.9,
+        "max": 1245.2,
+        "std": 313.2
+      },
+      "proximity_distribution": {
+        "Within 500m": 61,
+        "500m - 1km": 20,
+        "1km - 2.5km": 5
+      },
+      "disaggregated_by_category_group": {
+        "Hospitals & Clinics": {
+          "total_count": 64,
+          "intersecting_flood_extent": 0,
+          "within_500m": 50,
+          "within_500m_pct": 78.1,
+          "within_1000m": 62,
+          "within_1000m_pct": 96.9,
+          "distance_meters": {
+            "mean": 345.1,
+            "median": 275.0,
+            "min": 31.9,
+            "max": 1182.6
+          }
+        },
+        "Other / Unspecified": {
+          "total_count": 3,
+          "intersecting_flood_extent": 0,
+          "within_500m": 2,
+          "within_500m_pct": 66.7,
+          "within_1000m": 3,
+          "within_1000m_pct": 100.0,
+          "distance_meters": {
+            "mean": 374.5,
+            "median": 454.9,
+            "min": 164.2,
+            "max": 504.4
+          }
+        },
+        "Pharmacies & Laboratories": {
+          "total_count": 19,
+          "intersecting_flood_extent": 0,
+          "within_500m": 9,
+          "within_500m_pct": 47.4,
+          "within_1000m": 16,
+          "within_1000m_pct": 84.2,
+          "distance_meters": {
+            "mean": 572.0,
+            "median": 532.3,
+            "min": 72.4,
+            "max": 1245.2
+          }
+        }
+      }
+    },
+    "period_2": {
+      "period_key": "period_2",
+      "period_name": "Second Satellite Observation Period (28 August\u201304 September 2024)",
+      "date_range": "28 August to 04 September 2024",
+      "flood_area_km2": 453.54,
+      "flood_area_m2": 453541894.9,
+      "percentage_of_district_flooded": 14.68,
+      "flood_feature_count": 16982,
+      "facilities_intersecting_flood": 0,
+      "facilities_within_500m": 56,
+      "facilities_within_500m_pct": 65.1,
+      "facilities_within_1000m": 80,
+      "facilities_within_1000m_pct": 93.0,
+      "facilities_within_2500m": 86,
+      "facilities_within_2500m_pct": 100.0,
+      "distance_to_flood_meters": {
+        "mean": 431.6,
+        "median": 319.8,
+        "min": 32.3,
+        "max": 1611.4,
+        "std": 339.0
+      },
+      "proximity_distribution": {
+        "Within 500m": 56,
+        "500m - 1km": 24,
+        "1km - 2.5km": 6
+      },
+      "disaggregated_by_category_group": {
+        "Hospitals & Clinics": {
+          "total_count": 64,
+          "intersecting_flood_extent": 0,
+          "within_500m": 45,
+          "within_500m_pct": 70.3,
+          "within_1000m": 58,
+          "within_1000m_pct": 90.6,
+          "distance_meters": {
+            "mean": 400.2,
+            "median": 278.8,
+            "min": 32.3,
+            "max": 1611.4
+          }
+        },
+        "Other / Unspecified": {
+          "total_count": 3,
+          "intersecting_flood_extent": 0,
+          "within_500m": 2,
+          "within_500m_pct": 66.7,
+          "within_1000m": 3,
+          "within_1000m_pct": 100.0,
+          "distance_meters": {
+            "mean": 429.4,
+            "median": 476.9,
+            "min": 180.0,
+            "max": 631.3
+          }
+        },
+        "Pharmacies & Laboratories": {
+          "total_count": 19,
+          "intersecting_flood_extent": 0,
+          "within_500m": 9,
+          "within_500m_pct": 47.4,
+          "within_1000m": 19,
+          "within_1000m_pct": 100.0,
+          "distance_meters": {
+            "mean": 537.8,
+            "median": 691.8,
+            "min": 83.8,
+            "max": 958.5
+          }
+        }
+      }
+    }
+  },
+  "temporal_comparison": {
+    "period_1_area_km2": 472.16,
+    "period_2_area_km2": 453.54,
+    "flood_area_change_km2": -18.62,
+    "flood_area_change_pct_points": -0.61,
+    "facilities_within_500m_change": -5,
+    "facilities_within_1000m_change": -1,
+    "mean_distance_change_meters": 35.3,
+    "median_distance_change_meters": 30.5,
+    "category_group_comparison": {
+      "Hospitals & Clinics": {
+        "within_500m_change": -5,
+        "within_1000m_change": -4,
+        "mean_distance_change_m": 55.1
+      },
+      "Pharmacies & Laboratories": {
+        "within_500m_change": 0,
+        "within_1000m_change": 3,
+        "mean_distance_change_m": -34.2
+      },
+      "Other / Unspecified": {
+        "within_500m_change": 0,
+        "within_1000m_change": 0,
+        "mean_distance_change_m": 54.9
+      }
+    },
+    "interpretation": "Mapped flood extent decreased by 18.62 km\u00b2 (0.61% points of district area) between the first and second observation periods, resulting in a +35.3 m shift in mean facility proximity."
+  },
+  "scientific_definitions_and_notes": {
+    "methodology_scope": "Exploratory flood exposure and geographic proximity analysis. Calculates planar Euclidean distance (EPSG:32646) from mapped healthcare facility points to the nearest boundary of the satellite-detected flood polygon layer.",
+    "water_classification_rigor": "UNOSAT Product 3954 explicitly isolates 'Flood Water' with status 'New Water / Water Increase'. Permanent river channels and baseline reference water bodies are not classified as flood inundation.",
+    "accessibility_distinction": "Straight-line Euclidean proximity does NOT represent actual road network travel accessibility, travel time, flood water depth, velocity, or operational facility status during the disaster.",
+    "temporal_clarity": "Primary analyzed flood extent represents UNOSAT Sentinel-1 observations from the first satellite observation period (18\u201326 August 2024). Both observation periods were computed independently without cross-temporal aggregation.",
+    "osm_status_limitation": "OpenStreetMap facility points reflect mapped crowdsourced records and are not field-verified operational facilities as of August 2024.",
+    "cartographic_buffer_note": "Visualization buffer rings displayed on Map 3 (500m and 1,000m) are generalized for cartographic rendering (filtered <1,000 m\u00b2 speckle, simplified by 25m). All quantitative proximity metrics in results.csv and summary.json were calculated on the exact original unsimplified analytical geometries.",
+    "sensor_uncertainty": "UNOSAT Sentinel-1 SAR flood extraction has known limitations in dense urban built-up areas and under thick vegetation canopy due to double-bounce and radar attenuation effects."
+  }
+}

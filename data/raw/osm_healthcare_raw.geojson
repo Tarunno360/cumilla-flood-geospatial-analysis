@@ -1,0 +1,3281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node_2333164528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8021663,
+          23.7720763
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bancharampur Upazila Health Complex",
+        "osm_id": "node/2333164528",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2333164530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0941092,
+          23.6137621
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Brahmanpara Upazila Health Complex",
+        "osm_id": "node/2333164530",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2333164531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1271728,
+          23.5572321
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Burichang Upazila Health Complex",
+        "osm_id": "node/2333164531",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2333164532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9971327,
+          23.4875327
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Chandina Upazila Health Complex",
+        "osm_id": "node/2333164532",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2333164533",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1816815,
+          23.4553504
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Comilla General Hospital",
+        "osm_id": "node/2333164533",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2333164534",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2022664,
+          23.4515975
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Comilla Medical College Hospital",
+        "name:bn": "কুমিল্লা মেডিকেল কলেজ হাসপাতাল",
+        "osm_id": "node/2333164534",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2333164535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9872413,
+          23.6041875
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Debidwar Upazila Health Complex",
+        "osm_id": "node/2333164535",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2333164536",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7823232,
+          23.6815145
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Homna Upazila Health Complex",
+        "osm_id": "node/2333164536",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2333164537",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8894731,
+          23.3410847
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Kachua Upazila Health Complex",
+        "osm_id": "node/2333164537",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2333164538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9315645,
+          23.6403549
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Muradnagar Upazila Health Complex",
+        "osm_id": "node/2333164538",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2343341315",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0952915,
+          23.0025372
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Begumganj Upazila Health Complex",
+        "osm_id": "node/2343341315",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2343344189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.969302,
+          23.0601569
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Chatkhil Upazila Health Complex",
+        "osm_id": "node/2343344189",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2343395429",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7652993,
+          23.0318733
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Raipur Upazila Health Complex",
+        "osm_id": "node/2343395429",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2343417351",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7418619,
+          23.1333745
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Faridganj Upazila Health Complex",
+        "osm_id": "node/2343417351",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2343417354",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.662077,
+          23.0950908
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Haimchar Upazila Health Complex",
+        "osm_id": "node/2343417354",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2382257863",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7830709,
+          23.5295846
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Daudkandi Upazila Health Complex",
+        "osm_id": "node/2382257863",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2382257864",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6529191,
+          23.5529684
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Gazaria Upazila Health Complex",
+        "osm_id": "node/2382257864",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2382259745",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7040842,
+          23.3478544
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Matlab Upazila Health Complex",
+        "osm_id": "node/2382259745",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2382261918",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8738416,
+          23.2502563
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Hajiganj Upazila Health Complex",
+        "osm_id": "node/2382261918",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2382262545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9492877,
+          23.22802
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Shahrasti Upazila Health Complex",
+        "osm_id": "node/2382262545",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2382262625",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8907656,
+          23.3409069
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Kachua Upazila Health Complex",
+        "osm_id": "node/2382262625",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2382262817",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0589789,
+          23.3765251
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Barura Upazila Health Complex",
+        "osm_id": "node/2382262817",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2382263483",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1177264,
+          23.2339429
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Laksham Upazila Health Complex",
+        "osm_id": "node/2382263483",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2382265286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1989327,
+          23.1715795
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "নাঙলকোট উপজেলা স্বাস্থ্য কমপ্লেক্স",
+        "name:en": "Nangolkot Upazila Health Complex",
+        "osm_id": "node/2382265286",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2492654592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1793856,
+          23.4619904
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "CD PATH",
+        "osm_id": "node/2492654592",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2509564908",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1806023,
+          23.4585048
+        ]
+      },
+      "properties": {
+        "addr:city": "Comilla",
+        "addr:postcode": "3500",
+        "addr:street": "Comilla - Laksam Rd",
+        "amenity": "hospital",
+        "name": "Midland Hospital",
+        "osm_id": "node/2509564908",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2813443337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3975738,
+          23.0129351
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Feni Diabetic Hospital",
+        "osm_id": "node/2813443337",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_2815348434",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0067378,
+          23.485957
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Chandina General Hospital",
+        "osm_id": "node/2815348434",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_3784879661",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0581656,
+          23.376704
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Model Community Hospital",
+        "osm_id": "node/3784879661",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_3889036052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0731361,
+          23.4789692
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Eastern Medical College & Hospital",
+        "osm_id": "node/3889036052",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_4312345867",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8607436,
+          23.1080433
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramgonj",
+        "addr:postcode": "3720",
+        "addr:street": "Sonapur-Mudaffor Guang Road (Citosi Road)",
+        "amenity": "hospital",
+        "osm_id": "node/4312345867",
+        "osm_type": "node",
+        "name": "Unnamed Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_4316679406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8601959,
+          23.1030897
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramgonj",
+        "addr:postcode": "3720",
+        "addr:street": "Ramgonj to Hajigonj Road",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Ramgonj Adunik Hospital",
+        "operator": "Abdul Quder",
+        "phone": "+8801785840650",
+        "osm_id": "node/4316679406",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_4365087444",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9927378,
+          23.7425942
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "pharmacy",
+        "osm_id": "node/4365087444",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_4365113104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0027708,
+          23.7441573
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "DOYAMOY PHARMACY",
+        "osm_id": "node/4365113104",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_4365113694",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0029587,
+          23.7440833
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "SRI KISNA PHARMACY",
+        "osm_id": "node/4365113694",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_4476251493",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1790459,
+          23.4528899
+        ]
+      },
+      "properties": {
+        "addr:street": "Comilla - Laksam Road",
+        "amenity": "clinic",
+        "name:en": "Holy Care Hospital",
+        "osm_id": "node/4476251493",
+        "osm_type": "node",
+        "name": "Holy Care Hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_5125767075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2694473,
+          23.3370469
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "name": "Mia Bazar Clinic মিয়া ক্লিনিক",
+        "osm_id": "node/5125767075",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_5125806767",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3069404,
+          23.264078
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "JMI Syringes & Medical Devices Ltd.",
+        "osm_id": "node/5125806767",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_5216272719",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1870837,
+          23.4500891
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "New hospital",
+        "osm_id": "node/5216272719",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_5233004566",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1682669,
+          23.4665696
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Kakoli Pharmacy",
+        "opening_hours": "24/7",
+        "osm_id": "node/5233004566",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_5348955670",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1993928,
+          23.4507178
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "LMRF Hospital",
+        "osm_id": "node/5348955670",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_5395420944",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2785856,
+          23.7784002
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Niramoy",
+        "osm_id": "node/5395420944",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6082001917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1739857,
+          23.4415088
+        ]
+      },
+      "properties": {
+        "healthcare": "yes",
+        "name": "Modern Hospital মডার্ন হাসপাতাল",
+        "osm_id": "node/6082001917",
+        "osm_type": "node",
+        "amenity": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6092157234",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1763137,
+          23.4457338
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Alom Medical Hall",
+        "osm_id": "node/6092157234",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6092199175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.177333,
+          23.4471069
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Usha Homeo Hall",
+        "osm_id": "node/6092199175",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6112195660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1784663,
+          23.4500992
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "M/s Khan Pharmacy",
+        "osm_id": "node/6112195660",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6112197885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.17861,
+          23.4506331
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "সেলিনা হোমিও হল",
+        "osm_id": "node/6112197885",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6112235828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1787234,
+          23.4509076
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Haque Homeo Hall",
+        "osm_id": "node/6112235828",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6120545702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1809715,
+          23.4555423
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Comilla General Hospital",
+        "osm_id": "node/6120545702",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6120563185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1806037,
+          23.4597279
+        ]
+      },
+      "properties": {
+        "healthcare": "laboratory",
+        "name": "Hamdard Laboratories Waqf Bangladesh",
+        "osm_id": "node/6120563185",
+        "osm_type": "node",
+        "amenity": "laboratory"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6157980346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1436376,
+          23.3385322
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Bagmara Hospital",
+        "osm_id": "node/6157980346",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6176376832",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6531702,
+          23.2233561
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "name": "Chandpur Sadar Hospital",
+        "osm_id": "node/6176376832",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6180167165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1754017,
+          23.465034
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Medicare General Hospit",
+        "osm_id": "node/6180167165",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6180203268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1751603,
+          23.4651151
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Comilla Meghna General Hospital কুমিল্লা মেঘনা জেনারেল হাসপাতালে",
+        "osm_id": "node/6180203268",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6180217076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1740874,
+          23.4657893
+        ]
+      },
+      "properties": {
+        "healthcare": "alternative",
+        "name": "Al-Falah Medicine Stores",
+        "osm_id": "node/6180217076",
+        "osm_type": "node",
+        "amenity": "alternative"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6658506641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1505679,
+          23.0247588
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Monu Miya Hospital",
+        "name:bn": "মনু মিয়া হাসপাতাল",
+        "name:en": "Monu Miya Hospital",
+        "osm_id": "node/6658506641",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6757678358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3670021,
+          23.8356932
+        ]
+      },
+      "properties": {
+        "healthcare": "alternative",
+        "name": "HOMEOPATHY CLINIC by Dr Sangeeta nath",
+        "osm_id": "node/6757678358",
+        "osm_type": "node",
+        "amenity": "alternative"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6908083780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2809747,
+          23.834373
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "Sakuntala Road Extension, Palace Compound Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Life Line Nursing Home and Research Centre",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/6908083780",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6908094348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2773417,
+          23.8289863
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "46, Hgb Road, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Sarkar Clinic and Nursing Home",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/6908094348",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6908100786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2784789,
+          23.8303051
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "9A, PO: Chowmuhani, 67 Mantribari Road Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Agartala Hospital And Research Centre",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/6908100786",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6908100806",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2794593,
+          23.6828067
+        ]
+      },
+      "properties": {
+        "addr:district": "South Tripura",
+        "addr:full": "Near Agartala Bishalgarh Road, Bishalgarh Sub Division, Bishalgarh",
+        "addr:postcode": "799102",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bishalgarh",
+        "amenity": "hospital",
+        "name": "Bishalghar S.D. Hospital, West Tripura",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/6908100806",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6908111085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.282737,
+          23.8410733
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "Regd No: F.Cmo(W) 9(217), Cle/2011 24 Dimsagar, Opposite Astable Ground, Vip Road, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Devlok Hospital",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/6908111085",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_6908111101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2985526,
+          23.8336848
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "A.A Road, Dhaleswar, Kalyani, Agartala",
+        "addr:postcode": "799007",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Bhaumik Polyclinic and Nursing Home",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/6908111101",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657829",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.327988,
+          23.314183
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Sonamura Barpathori Road., Nidaya GP",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kathalia",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Nidaya, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657829",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657831",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.173833,
+          23.610852
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Boxanagar Bazar, Kalamchoura, Boxanagar",
+        "addr:postcode": "799106",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Boxanagar",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Boxanagar, CHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657831",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.291481,
+          23.5641251
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Bishramganj Taxapara Road., Sonamura Sub Division, Taxapara GP",
+        "addr:postcode": "799103",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Taksapara hospital",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657836",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657838",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.280186,
+          23.4219
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Dhanpur Bazar",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kathalia",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Dhanpur, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657838",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657844",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.213275,
+          23.557377
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Kamal Nagar Bazar, Boxanagar Sonamura Road",
+        "addr:postcode": "799102",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Boxanagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Kamalnagar, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657844",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657850",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3720436,
+          23.8357797
+        ]
+      },
+      "properties": {
+        "addr:district": "West",
+        "addr:full": "West Tripura, Ranir Bazar",
+        "addr:postcode": "799035",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jirania",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Ranirbazar, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657850",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657852",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3718885,
+          23.4387543
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Taibandal Bazar, Sonamura Sub Division, North Taibandal GP",
+        "addr:postcode": "799115",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Taibandal, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657852",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657853",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3792359,
+          23.1144191
+        ]
+      },
+      "properties": {
+        "addr:district": "South",
+        "addr:full": "Near Chottakhola HS School, Uttar Srirampur GP, Bhairabnagar",
+        "addr:postcode": "799015",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Rajnagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Chottakhola, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657853",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657867",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.369235,
+          23.679201
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Near T. S. R. Camp, Dayarampara ADC Village.",
+        "addr:postcode": "799102",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bishalgarh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Dayarampara, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657867",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657869",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.320954,
+          23.3667701
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Kathalia RD Block, Kathalia",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kathalia",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Kathalia, CHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657869",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657874",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.263053,
+          23.48445
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Hospital Road, Sonamura NP, Sonamura Town",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Sonamura Gramin Hospital",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657874",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657877",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3161041,
+          23.7359279
+        ]
+      },
+      "properties": {
+        "addr:district": "West",
+        "addr:full": "Near Laxmichara High Sencondary School, Kanchanmala, Shekerkot Kanchamala Road",
+        "addr:postcode": "799130",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dukli",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Kanchanmala, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657877",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657878",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3207342,
+          23.786974
+        ]
+      },
+      "properties": {
+        "addr:district": "West",
+        "addr:full": "Near Anandanagar Ramkrishna Ashram and Panchayet Office",
+        "addr:postcode": "799004",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dukli",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Anandanagar, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657878",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657893",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2274473,
+          23.5180894
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Matinagar Bazar, Motinagar",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Boxanagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Matinagar, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657893",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657897",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.350772,
+          23.608801
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Bishramganj Bazar, Shillong - Agartala - Sabrum Rd, Bishramganj GP",
+        "addr:postcode": "799103",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bishalgarh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Bishramganj, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657897",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657902",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3956458,
+          23.2351652
+        ]
+      },
+      "properties": {
+        "addr:district": "South",
+        "addr:full": "Near Rajnagar RD Block Office, Rajnagar GP, Rajnagar",
+        "addr:postcode": "799150",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Rajnagar",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Rajnagar, CHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657902",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7127657905",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.355324,
+          23.551637
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Nalchar Bazar., Paschim Nalchar, Nalchar.",
+        "addr:postcode": "799115",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Sukumar Barman Memorial, PHC",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7127657905",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7149251864",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3301356,
+          23.4868754
+        ]
+      },
+      "properties": {
+        "addr:full": "telkajla",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, telkajla",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7149251864",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7149251874",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3949364,
+          23.0749064
+        ]
+      },
+      "properties": {
+        "addr:full": "Baraiya",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,Gouranga Bazar",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7149251874",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7149273600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1941295,
+          23.5859727
+        ]
+      },
+      "properties": {
+        "addr:full": "Kalam chowra",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,North Kalamchowra",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7149273600",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7149273609",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2020481,
+          23.57377
+        ]
+      },
+      "properties": {
+        "addr:full": "Kalam Chowra",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,South Kalamchowra",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7149273609",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7149273627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3440932,
+          23.8430292
+        ]
+      },
+      "properties": {
+        "addr:full": "Khayerpur",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub-Centre ,Old Agartala",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7149273627",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7149273636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2382284,
+          23.7435705
+        ]
+      },
+      "properties": {
+        "addr:full": "Nehalchandranagar",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Pandabpur",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7149273636",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7149273641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3946142,
+          23.7354387
+        ]
+      },
+      "properties": {
+        "addr:full": "Ratanpur",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,Ratanpur",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7149273641",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7150796732",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2931144,
+          23.8081545
+        ]
+      },
+      "properties": {
+        "addr:full": "Pratapgarh",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Health Center ,Subhash Nagar,Dharpara",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7150796732",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7210866369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2843872,
+          23.8344295
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "Palace Compound, Kalibari Road, behind Laxmi Narayan Temple, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Laxmi Clinic",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7210866369",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7210907225",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3323109,
+          23.4931778
+        ]
+      },
+      "properties": {
+        "addr:district": "South Tripura",
+        "addr:full": "Melaghar, Sonamura",
+        "addr:postcode": "799115",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Melaghar hospital",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7210907225",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7210939765",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2827289,
+          23.8121814
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "West Tripura",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "healthcare": "centre",
+        "name": "Urban Primary Health Centre",
+        "source": "OpenGovernmentData",
+        "osm_id": "node/7210939765",
+        "osm_type": "node",
+        "amenity": "centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7400247785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1377632,
+          23.4693218
+        ]
+      },
+      "properties": {
+        "addr:city": "কুমিল্লা",
+        "addr:housenumber": "শংকরপুর, চক্ষু হাসপাতাল",
+        "addr:postcode": "3500",
+        "addr:street": "ঢাকা-চট্টগ্রাম মহাসড়ক",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "yes",
+        "email": "sharikapharmacy@gmail.com",
+        "healthcare": "pharmacy",
+        "name": "শারিকা আই কেয়ার",
+        "opening_hours": "24/7",
+        "operator": "abu sayed",
+        "phone": "008801759953323",
+        "website": "https://sharikapharmacy.webs.com/",
+        "osm_id": "node/7400247785",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7466289937",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2337122,
+          23.8191641
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "osm_id": "node/7466289937",
+        "osm_type": "node",
+        "name": "Unnamed Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7621605910",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2819867,
+          23.8263332
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "Dhaleswar",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ASR Hospital",
+        "source": "Local Knowledge",
+        "osm_id": "node/7621605910",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7621605911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2864718,
+          23.8303963
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "CR Road, Santipara, Dhaleswar, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Venkataeswara Hospitals",
+        "source": "Local Knowledge",
+        "osm_id": "node/7621605911",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7621605921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2241002,
+          23.6788308
+        ]
+      },
+      "properties": {
+        "addr:district": "Sepahijala",
+        "addr:full": "Purathal Rajnagar",
+        "addr:postcode": "799102",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Purathal Rajnagar Health Centre",
+        "source": "Local Knowledge",
+        "osm_id": "node/7621605921",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7621605925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2981913,
+          23.8077381
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "Sadhu Tilla, Subhash Nagar, Jogendra Nagar, Agartala",
+        "addr:postcode": "799004",
+        "addr:state": "Tripura",
+        "addr:street": "Agartala Bypass",
+        "amenity": "hospital",
+        "name": "Homoeopathic Hospital",
+        "source": "Local Knowledge",
+        "osm_id": "node/7621605925",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7621605931",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2591853,
+          23.7848589
+        ]
+      },
+      "properties": {
+        "addr:district": "West Tripura",
+        "addr:full": "Master Para, Hapania, Agartala",
+        "addr:postcode": "799014",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Hapania Hospital",
+        "source": "Local Knowledge",
+        "osm_id": "node/7621605931",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_7739844012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1987344,
+          23.1257718
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Shreehashy Community Clinic",
+        "osm_id": "node/7739844012",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_8117989472",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9823766,
+          23.3447744
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gausia Medical Center",
+        "osm_id": "node/8117989472",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_8117999632",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0627069,
+          23.3746983
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Fair Hospital",
+        "osm_id": "node/8117999632",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_9610301355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0581442,
+          23.1537678
+        ]
+      },
+      "properties": {
+        "addr:city": "Cumilla",
+        "addr:postcode": "3623",
+        "amenity": "hospital",
+        "email": "monoharganj@uhfpo.dghs.gov.bd",
+        "healthcare": "hospital",
+        "mobile": "+8801730324839",
+        "name": "Monohorgonj Upazila Health Complex",
+        "name:bn": "মনোহরগঞ্জ উপজেলা স্বাস্থ্য কমপ্লেক্স",
+        "operator": "Government",
+        "operator:type": "government",
+        "osm_id": "node/9610301355",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_9692137607",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7657901,
+          23.0323858
+        ]
+      },
+      "properties": {
+        "addr:street": "Lakshmipur-Raipur Road",
+        "amenity": "hospital",
+        "healthcare": "yes",
+        "healthcare:speciality": "general",
+        "name": "Raipur Modern Hospital",
+        "osm_id": "node/9692137607",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_9692137608",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7654157,
+          23.0321032
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Janasheba General Hospital",
+        "osm_id": "node/9692137608",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10047119749",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0562881,
+          23.1624117
+        ]
+      },
+      "properties": {
+        "addr:postcode": "3623",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "osm_id": "node/10047119749",
+        "osm_type": "node",
+        "name": "Unnamed Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10047119750",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0580261,
+          23.1640225
+        ]
+      },
+      "properties": {
+        "addr:postcode": "3623",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "osm_id": "node/10047119750",
+        "osm_type": "node",
+        "name": "Unnamed Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10236595613",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3772861,
+          23.0101349
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bokho Bidhi Clinic",
+        "osm_id": "node/10236595613",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10241366020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3349786,
+          23.1111089
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gangra Community Clinic",
+        "osm_id": "node/10241366020",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10241429256",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3417171,
+          23.0993318
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bhazonkora Community Health Center",
+        "osm_id": "node/10241429256",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10260401001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.312882,
+          23.1977995
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Batisa Union Health and Family Welfare Centre",
+        "osm_id": "node/10260401001",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10262777719",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3128155,
+          23.2215644
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Upazila Animal Resources Department and Veterinary Hospital",
+        "osm_id": "node/10262777719",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10266597779",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3135754,
+          23.2303924
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Chauddagram Medinova Diagnostic Centre",
+        "osm_id": "node/10266597779",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10268879481",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.308635,
+          23.2440315
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Family Welfare Center. Wazirpur Union",
+        "osm_id": "node/10268879481",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10278372098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2714191,
+          23.3347761
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "The Apollo Hospital Consultancy & Diagnostic Center.",
+        "osm_id": "node/10278372098",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10278399141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2699759,
+          23.3366077
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Meah Bazar Medical Cente",
+        "osm_id": "node/10278399141",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10286789528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2493842,
+          23.3689659
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "vatpara Hospital",
+        "osm_id": "node/10286789528",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10294741822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2285152,
+          23.3874319
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "City health Centre, komolapur, comilla",
+        "osm_id": "node/10294741822",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_10305045054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1453606,
+          23.4508699
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nargis-Nasrin-Delowara Future Hospital",
+        "osm_id": "node/10305045054",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_11143301063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0669764,
+          23.1872775
+        ]
+      },
+      "properties": {
+        "addr:city": "Cumilla",
+        "addr:postcode": "3623",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "মৈশাতুয়া কমিউনিটি ক্লিনিক",
+        "operator": "Government",
+        "operator:type": "government",
+        "osm_id": "node/11143301063",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_11188175635",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.056225,
+          23.1624699
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "osm_id": "node/11188175635",
+        "osm_type": "node",
+        "name": "Unnamed Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_11222891840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1016749,
+          23.1237548
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Nirob Medical Hall",
+        "osm_id": "node/11222891840",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_11222891841",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1022057,
+          23.1237825
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "ফারিয়া মেডিকেল হল",
+        "osm_id": "node/11222891841",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_11915974959",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1837532,
+          23.4495481
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "mobile": "01790162544",
+        "name": "কুমিল্লা ইসলামিয়া হসপিটাল Cumilla Islamia Hospital",
+        "opening_hours": "24 hours",
+        "operator": "24 hours",
+        "operator:type": "private",
+        "osm_id": "node/11915974959",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_11916074730",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1843133,
+          23.4492463
+        ]
+      },
+      "properties": {
+        "addr:city": "Cumilla",
+        "addr:housenumber": "EPZ Gate",
+        "addr:street": "Medical Road",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Nipa pharmacy Comilla",
+        "osm_id": "node/11916074730",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_12196648723",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1779089,
+          23.4592156
+        ]
+      },
+      "properties": {
+        "addr:street": "Nazrul Avenue, Kandirpar, Comilla",
+        "amenity": "hospital",
+        "name": "Gomoti Hospital",
+        "phone": "01711798083",
+        "osm_id": "node/12196648723",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_12247544795",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1760767,
+          23.4804627
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "নগর স্বাস্থ্য কেন্দ্র ৩",
+        "osm_id": "node/12247544795",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_12541281035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2052388,
+          23.4556454
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ময়নামতি মেডিকেল কলেজ ও হাসপাতাল",
+        "name:en": "Mainamoti Medical College and Hospital",
+        "osm_id": "node/12541281035",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_13668683753",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3844387,
+          23.0094797
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "New Upasham General Hospital Ltd.",
+        "osm_id": "node/13668683753",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_13668683754",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3845342,
+          23.0094635
+        ]
+      },
+      "properties": {
+        "healthcare": "laboratory",
+        "name": "Hamdard Leboratories",
+        "osm_id": "node/13668683754",
+        "osm_type": "node",
+        "amenity": "laboratory"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_13668686319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3859532,
+          23.0092788
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Doctor's Dream Lab",
+        "osm_id": "node/13668686319",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_13668720363",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3935541,
+          23.0086548
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Al Chemi Hospital",
+        "osm_id": "node/13668720363",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_13673526981",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3850242,
+          23.0070252
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Radhe Medical Hall",
+        "osm_id": "node/13673526981",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_14004178596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8444397,
+          23.2503611
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "mobile": "01321463399",
+        "name": "Hajiganj General Hospital & Digital Diagnostic Center",
+        "opening_hours": "24/7",
+        "osm_id": "node/14004178596",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node_14061437654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0926386,
+          23.1121134
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Josim Pharmacy",
+        "opening_hours": "09:00-22:00",
+        "osm_id": "node/14061437654",
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_252543158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2667014,
+          23.3784456
+        ]
+      },
+      "properties": {
+        "addr:city": "Comilla",
+        "addr:housename": "Kamolpur Community Clinic",
+        "addr:postcode": "3504",
+        "addr:street": "Lampur Kamolpur Road",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Kamolpur Community Clinic",
+        "osm_id": "way/252543158",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_262527490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1764503,
+          23.4642922
+        ]
+      },
+      "properties": {
+        "addr:city": "comilla",
+        "addr:postcode": "3500",
+        "addr:street": "jaotola road",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Moinamoti medical college & hospital",
+        "osm_id": "way/262527490",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_361004663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2759815,
+          23.8308032
+        ]
+      },
+      "properties": {
+        "addr:district": "West",
+        "addr:full": "Umakanta Academy School, Hospital Road,Dhaleswar, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "contact:phone": "0381 2323331,3812325606",
+        "description": "Hospital",
+        "name": "IGM Civil Hospital",
+        "source": "OpenGovernmentData",
+        "osm_id": "way/361004663",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_375098413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.058061,
+          23.376391
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "4",
+        "healthcare": "clinic",
+        "name": "Diagnosis Centre",
+        "osm_id": "way/375098413",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_375098414",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0582117,
+          23.3764502
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "building": "yes",
+        "building:min_level": "3",
+        "healthcare": "clinic",
+        "name": "ক্লিনিক",
+        "osm_id": "way/375098414",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_495144644",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.116856,
+          23.4822419
+        ]
+      },
+      "properties": {
+        "addr:city": "Comilla Cantonment",
+        "addr:postcode": "3521",
+        "addr:street": "Comilla-Sylhet Highway",
+        "amenity": "hospital",
+        "name": "Maynamoti Cantonment General Hospital",
+        "operator": "Comilla Cantonment",
+        "osm_id": "way/495144644",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_527195506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3075472,
+          23.2625869
+        ]
+      },
+      "properties": {
+        "addr:city": "Dhaka - Chittagong Hwy",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Nipro JMI Pharma Ltd.Pharmaceutical Company",
+        "osm_id": "way/527195506",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_537596223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6191944,
+          23.8398466
+        ]
+      },
+      "properties": {
+        "addr:city": "Dhaka - Sylhet Hwy",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Bandhob Homoeo Hall",
+        "osm_id": "way/537596223",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_547890925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1869668,
+          23.4642974
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "osm_id": "way/547890925",
+        "osm_type": "way",
+        "name": "Unnamed Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_548308782",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2491792,
+          23.4432231
+        ]
+      },
+      "properties": {
+        "addr:city": "Comilla",
+        "addr:place": "DURLOVPUR",
+        "addr:postcode": "3500",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Madrasha Building",
+        "osm_id": "way/548308782",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_549106168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1799936,
+          23.4578234
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "healthcare": "laboratory",
+        "name": "Comilla Medical Center",
+        "osm_id": "way/549106168",
+        "osm_type": "way",
+        "amenity": "laboratory"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_604532749",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9331132,
+          23.6382267
+        ]
+      },
+      "properties": {
+        "addr:city": "Muradnagar",
+        "addr:postcode": "3540",
+        "addr:street": "Muradnagar - Companiganj Road",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;intensive;dentistry;orthopaedics;gynaecology;cardiology;surgery;emergency;dermatology;radiology;biology;community",
+        "name": "Micropath Clinic & Pathology",
+        "operator": "Private",
+        "operator:type": "private",
+        "osm_id": "way/604532749",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_604532767",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9317253,
+          23.6389969
+        ]
+      },
+      "properties": {
+        "addr:city": "Muradnagar",
+        "addr:postcode": "3540",
+        "addr:street": "Muradnagar - Companiganj Road",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;dentistry;orthopaedics;gynaecology;emergency;cardiology;surgery;dermatology;radiology;biology;maternity",
+        "name": "ডক্টরস ক্লিনিক এন্ড ল্যাব",
+        "opening_hours": "24/7",
+        "operator": "Private",
+        "operator:type": "private",
+        "osm_id": "way/604532767",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_660867780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1174996,
+          23.2339559
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "layer": "1",
+        "name": "Laksham Upazila Health Complex",
+        "osm_id": "way/660867780",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_795823948",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9317809,
+          23.640045
+        ]
+      },
+      "properties": {
+        "addr:city": "Muradnagar",
+        "addr:postcode": "3540",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;dentistry;ophthalmology;intensive;orthopaedics;gynaecology;emergency;cardiology;surgery;dermatology;radiology;biology;maternity;community",
+        "name": "মুরাদনগর উপজেলা স্বাস্থ্য কমপ্লেক্সে",
+        "operator": "Government",
+        "operator:type": "government",
+        "osm_id": "way/795823948",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_957593891",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0581099,
+          23.1536103
+        ]
+      },
+      "properties": {
+        "addr:city": "Cumilla",
+        "addr:postcode": "3623",
+        "amenity": "hospital",
+        "email": "monoharganj@uhfpo.dghs.gov.bd",
+        "healthcare": "hospital",
+        "mobile": "+8801730324839",
+        "name": "Monohorgonj Upazila Health Complex",
+        "operator": "Government",
+        "operator:type": "government",
+        "osm_id": "way/957593891",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_972289231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3976874,
+          23.0129029
+        ]
+      },
+      "properties": {
+        "addr:city": "Feni",
+        "addr:postcode": "3900",
+        "addr:street": "মিজান সড়ক",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Feni diabetic hospital",
+        "osm_id": "way/972289231",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_972300624",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3986752,
+          23.0129143
+        ]
+      },
+      "properties": {
+        "addr:city": "Feni",
+        "addr:street": "কলেজ সড়ক",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "National Heart foundation Feni",
+        "osm_id": "way/972300624",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_972605856",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.39688,
+          23.0095334
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Azad Medical Hall",
+        "osm_id": "way/972605856",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1059917839",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3939624,
+          23.0145308
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "R.M Pharmacy",
+        "osm_id": "way/1059917839",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1059917842",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3937565,
+          23.0145982
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Cosmopolitan diagonostic center",
+        "osm_id": "way/1059917842",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1132135709",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3417044,
+          23.0993147
+        ]
+      },
+      "properties": {
+        "healthcare": "yes",
+        "name": "Bhazonkora Community Health Center",
+        "osm_id": "way/1132135709",
+        "osm_type": "way",
+        "amenity": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1132138008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3350328,
+          23.1111245
+        ]
+      },
+      "properties": {
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Gangra Community Clinic",
+        "osm_id": "way/1132138008",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1201907043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0669767,
+          23.1872732
+        ]
+      },
+      "properties": {
+        "addr:city": "Cumilla",
+        "addr:postcode": "3623",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "মৈশাতুয়া কমিউনিটি ক্লিনিক",
+        "operator": "Government",
+        "operator:type": "government",
+        "osm_id": "way/1201907043",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1355134416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2051743,
+          23.4551772
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ময়নামতি মেডিকেল কলেজ ও হাসপাতাল",
+        "name:en": "Mainamoti Medical College and Hospital",
+        "osm_id": "way/1355134416",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1355134420",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2023473,
+          23.4522483
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "কুমিল্লা মেডিকেল কলেজ হাসপাতাল",
+        "name:en": "Cumilla Medical College Hospital",
+        "osm_id": "way/1355134420",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1376927983",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3989396,
+          23.0129231
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "National Heart foundation Feni",
+        "osm_id": "way/1376927983",
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1376927984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3988203,
+          23.0129259
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "building": "yes",
+        "osm_id": "way/1376927984",
+        "osm_type": "way",
+        "name": "Unnamed Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way_1545989475",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0926403,
+          23.1121159
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Josim Pharmacy",
+        "opening_hours": "09:00-22:00",
+        "osm_id": "way/1545989475",
+        "osm_type": "way"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "metadata": {
+    "retrieval_date": "2026-10-15T07:11:02.137009+00:00",
+    "source": "OpenStreetMap contributors via Overpass API",
+    "license": "Open Database License (ODbL) 1.0",
+    "query_bbox": [
+      23.0,
+      90.6,
+      23.85,
+      91.4
+    ],
+    "feature_count": 163,
+    "historical_note": "NOTE: Current OpenStreetMap records represent mapped facilities and are not guaranteed historical snapshots as of August 2024."
+  }
+}

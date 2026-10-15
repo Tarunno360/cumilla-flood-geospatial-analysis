@@ -1,0 +1,83 @@
+{
+  "project": "Flood Exposure and Healthcare Facility Proximity Analysis: An Exploratory Case Study of the August 2024 Bangladesh Floods in Cumilla District",
+  "manifest_generated_at": "2026-10-15T10:39:19.723164+00:00",
+  "study_area": "Cumilla",
+  "target_event": {
+    "title": "August 2024 Eastern Bangladesh Floods",
+    "glide_number": "FL20240825BGD",
+    "dates": "August - September 2024"
+  },
+  "datasets": [
+    {
+      "identifier": "geoboundaries_bgd_adm2",
+      "title": "geoBoundaries Bangladesh ADM2 (Districts)",
+      "provider": "William & Mary geoBoundaries / BBS / OCHA ROAP",
+      "source_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BGD/ADM2/geoBoundaries-BGD-ADM2.geojson",
+      "license": "CC-BY 3.0 IGO / OCHA ROAP / BBS",
+      "vintage": "2020 / Dec 2023 release",
+      "native_crs": "EPSG:4326 (WGS84)",
+      "local_path": "data/raw/geoboundaries_bgd_adm2.geojson",
+      "role": "Delineation of Cumilla District administrative boundary."
+    },
+    {
+      "identifier": "unosat_product_3954",
+      "title": "Satellite detected water extents between 28 August & 4 September 2024 in Bangladesh",
+      "provider": "United Nations Satellite Centre (UNOSAT / UNITAR)",
+      "product_id": 3954,
+      "source_url": "https://unosat.org/static/unosat_filesystem/3954/FL20240825BGD_SHP.zip",
+      "metadata_page": "https://unosat.org/our_products/3954",
+      "sensor": "Copernicus Sentinel-1 SAR (10m resolution)",
+      "primary_period": "period_1",
+      "observation_periods": {
+        "period_1": {
+          "id": "period_1",
+          "name": "First Satellite Observation Period (18\u201326 August 2024)",
+          "date_range": "18 to 26 August 2024",
+          "shapefile_name": "S1_20240818_20240826_FloodExtent_Bangladesh.shp",
+          "relative_path": "FL20240825BGD_SHP/S1_20240818_20240826_FloodExtent_Bangladesh.shp",
+          "is_primary": true,
+          "description": "Satellite-detected flood water extent from 18 to 26 August 2024"
+        },
+        "period_2": {
+          "id": "period_2",
+          "name": "Second Satellite Observation Period (28 August\u201304 September 2024)",
+          "date_range": "28 August to 04 September 2024",
+          "shapefile_name": "S1_20240828_20240904_FloodExtent_Bangladesh.shp",
+          "relative_path": "FL20240825BGD_SHP/S1_20240828_20240904_FloodExtent_Bangladesh.shp",
+          "is_primary": false,
+          "description": "Satellite-detected flood water extent from 28 August to 04 September 2024"
+        }
+      },
+      "license": "Open Data / Creative Commons Attribution (UNOSAT / UNITAR)",
+      "native_crs": "EPSG:4326 (WGS84) / UTM",
+      "local_path": "data/raw/unosat_3954",
+      "role": "Satellite-derived flood water extents aggregated from Sentinel-1 radar observations across two discrete observation windows."
+    },
+    {
+      "identifier": "unosat_product_3937",
+      "title": "Preliminary satellite-derived flood impact assessment, Cumilla City",
+      "provider": "United Nations Satellite Centre (UNOSAT / UNITAR)",
+      "product_id": 3937,
+      "source_url": "https://unosat.org/static/unosat_filesystem/3937/UNOSAT_Preliminary_Assessment_Report_FL20240825BGD_Comilla_30Aug2024.pdf",
+      "metadata_page": "https://unosat.org/our_products/3937",
+      "license": "UNOSAT / UNITAR Assessment",
+      "local_path": "data/raw/unosat_3937_assessment.pdf",
+      "role": "High-resolution satellite preliminary impact assessment context for Cumilla City."
+    },
+    {
+      "identifier": "osm_healthcare_facilities",
+      "title": "OpenStreetMap Healthcare Facilities (Hospitals, Clinics, Doctors)",
+      "provider": "OpenStreetMap contributors via Overpass API",
+      "source_endpoints": [
+        "https://overpass.osm.ch/api/interpreter",
+        "https://overpass.kumi.systems/api/interpreter",
+        "https://overpass-api.de/api/interpreter"
+      ],
+      "license": "ODbL (Open Database License)",
+      "native_crs": "EPSG:4326 (WGS84)",
+      "local_path": "data/raw/osm_healthcare_raw.geojson",
+      "role": "Point locations of mapped hospitals, medical clinics, and doctors in the study area.",
+      "scientific_limitation": "OpenStreetMap data represents crowd-sourced facilities at query time and does not constitute verified historical status as of August 2024. Incomplete mapping in rural areas may lead to spatial sampling bias."
+    }
+  ]
+}
